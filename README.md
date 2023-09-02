@@ -12,7 +12,4 @@ Estudante de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual
 
 
 
-## 🛠 Habilidades
-HTML, CSS, JavaScript, Java, Linux, ECMAScript
-
 
